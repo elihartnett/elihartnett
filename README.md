@@ -7,4 +7,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elichartnett&hide_border=true)](https://git.io/streak-stats)
 
-⚠️Take public repos with a grain of salt and use with caution. They are learner projects, not production apps!⚠️
+⚠️Public repos are learner projects, not production apps!⚠️
