@@ -5,6 +5,6 @@
 
 ![](https://komarev.com/ghpvc/?username=elichartnett&style=flat-square)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elichartnett&hide_border=true)]
+![][GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elichartnett&hide_border=true)
 
 ⚠️Public repos are learner projects, not production apps!⚠️
